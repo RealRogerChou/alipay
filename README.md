@@ -3,10 +3,10 @@
 
 网上的很多PHP支付宝支付接入教程都颇为复杂，且需要配置和引入较多的文件，本人通过整理后给出一个单文件版的（代码只有200行左右），每个文件独立运行，不依赖和引入其他文件。希望可以给各位想接入支付宝的带来些许帮助和借鉴意义。
 
-一个PHP文件搞定微信支付系列请移步：https://github.com/dedemao/weixinPay
+一个PHP文件搞定微信支付系列请移步：https://github.com/realrogerchou/weixinPay
 
 # 在线演示
-https://www.dedemao.com/alipay/demo.html
+https://www.yingluowang.com/alipay/demo.html
 
 # 环境依赖
 
